@@ -21,3 +21,4 @@ public class FileMessage extends AbstractMessage {
         data = Files.readAllBytes(path);
     }
 }
+
