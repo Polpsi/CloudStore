@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5720c870-1e1b-443a-b60d-457701e09adc" name="Default" comment="gi">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client_storage/1.txt" afterDir="false" />
+    <list default="true" id="5720c870-1e1b-443a-b60d-457701e09adc" name="Default" comment="Lesson4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/cloud/netty/client/MainClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/cloud/netty/client/MainClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/cloud/netty/client/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/cloud/netty/client/MainController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/cloud/netty/client/Network.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/cloud/netty/client/Network.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/cloud/netty/common/AbstractMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/cloud/netty/common/AbstractMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/cloud/netty/common/FileMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/cloud/netty/common/FileMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/cloud/netty/common/FileRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/cloud/netty/common/FileRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/cloud/netty/server/MainHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/cloud/netty/server/MainHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/cloud/netty/server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/cloud/netty/server/Server.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Netty3" />
+        <entry key="$PROJECT_DIR$" value="Netty5" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -165,7 +155,7 @@
       <option name="presentableId" value="Default" />
       <updated>1539684338119</updated>
       <workItem from="1596717086168" duration="656000" />
-      <workItem from="1597053742704" duration="383000" />
+      <workItem from="1597053742704" duration="1805000" />
     </task>
     <task id="LOCAL-00001" summary="gi">
       <created>1596717401733</created>
@@ -188,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596717588768</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Lesson4">
+      <created>1597054163044</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597054163044</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,7 +206,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="gi" />
-    <option name="LAST_COMMIT_MESSAGE" value="gi" />
+    <MESSAGE value="Lesson4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson4" />
   </component>
   <component name="masterDetails">
     <states>
