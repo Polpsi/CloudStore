@@ -55,4 +55,3 @@ public class Network {
         return (AbstractMessage) obj;
     }
 }
-
