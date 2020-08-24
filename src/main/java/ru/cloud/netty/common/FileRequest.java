@@ -1,5 +1,6 @@
 package ru.cloud.netty.common;
 
+
 public class FileRequest extends AbstractMessage {
     private String filename;
 
