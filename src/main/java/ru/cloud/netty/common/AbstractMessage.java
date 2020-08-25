@@ -1,4 +1,4 @@
-package com.flamexander.netty.example.common;
+package ru.cloud.netty.common;
 
 import java.io.Serializable;
 

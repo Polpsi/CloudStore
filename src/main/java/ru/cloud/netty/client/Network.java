@@ -1,6 +1,6 @@
-package com.flamexander.netty.example.client;
+package ru.cloud.netty.client;
 
-import com.flamexander.netty.example.common.AbstractMessage;
+import ru.cloud.netty.common.AbstractMessage;
 import io.netty.handler.codec.serialization.ObjectDecoderInputStream;
 import io.netty.handler.codec.serialization.ObjectEncoderOutputStream;
 

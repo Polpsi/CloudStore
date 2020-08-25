@@ -1,4 +1,4 @@
-package com.flamexander.netty.example.server;
+package ru.cloud.netty.server;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;
@@ -42,3 +42,4 @@ public class Server {
         new Server().run();
     }
 }
+

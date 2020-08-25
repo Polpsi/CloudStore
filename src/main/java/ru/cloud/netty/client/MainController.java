@@ -1,10 +1,9 @@
-package com.flamexander.netty.example.client;
+package ru.cloud.netty.client;
 
-import com.flamexander.netty.example.common.AbstractMessage;
-import com.flamexander.netty.example.common.FileMessage;
-import com.flamexander.netty.example.common.FileRequest;
+import ru.cloud.netty.common.AbstractMessage;
+import ru.cloud.netty.common.FileMessage;
+import ru.cloud.netty.common.FileRequest;
 import javafx.application.Platform;
-import javafx.collections.FXCollections;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
